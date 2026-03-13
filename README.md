@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Ryan%20Web3%20Builder&fontSize=45" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Web3+Builder;Automation+Developer;AI+Explorer;Blockchain+Researcher)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryan70119&color=blue)
