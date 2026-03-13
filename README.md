@@ -56,4 +56,4 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Ryan70119)
 
-![GitHub Skyline](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+[![Ryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryan70119&theme=tokyo-night)](https://github.com/ryan70119)
