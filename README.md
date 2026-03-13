@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=200&section=header&text=Ryan%20Web3%20Builder&fontSize=40&fontColor=ffffff" />
-![Profile views](https://komarev.com/ghpvc/?username=ryan70119&color=blue)
 # Hi 👋 I'm Ryan
 
 🚀 Web3 Builder | Airdrop Hunter | AI Explorer
