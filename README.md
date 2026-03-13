@@ -16,7 +16,15 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Skills ## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Web3](https://img.shields.io/badge/Web3-black?style=for-the-badge)
+
+![Blockchain](https://img.shields.io/badge/Blockchain-purple?style=for-the-badge)
 
 * JavaScript
 * Python
