@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=200&section=header&text=Ryan%20Web3%20Builder&fontSize=40&fontColor=ffffff" />
+![Profile views](https://komarev.com/ghpvc/?username=ryan70119&color=blue)
 # Hi 👋 I'm Ryan
 
 🚀 Web3 Builder | Airdrop Hunter | AI Explorer
@@ -40,11 +41,4 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 * X (Twitter): https://x.com/yourname
 * Telegram : https://web.telegram.org/k/@Ryan70119
-![Profile views](https://komarev.com/ghpvc/?username=ryan70119&color=blue)
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-## 🚀 Featured Projects
-
-- 🔧 Web3 Automation Tools
-- 🎮 Mobile Game Development
-- 🤖 AI Experiments
-- 🧩 NFT Generator
