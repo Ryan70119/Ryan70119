@@ -26,11 +26,6 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-purple?style=for-the-badge)
 
-* JavaScript
-* Python
-* Web3 Tools
-* Blockchain
-
 ---
 
 ## 📊 GitHub Stats
