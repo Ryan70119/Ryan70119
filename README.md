@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 ---
 
-## ⚙️ Skills ## 🚀 Tech Stack
+## ⚙️ Skills 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
@@ -53,12 +53,4 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 [![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/long70119)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Ryan70119)
-## 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-![Blockchain](https://img.shields.io/badge/Blockchain-purple?style=for-the-badge)
-
-![Web3](https://img.shields.io/badge/Web3-black?style=for-the-badge)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
