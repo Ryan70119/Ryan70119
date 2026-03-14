@@ -58,4 +58,3 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 ![pacman contribution graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<img src="https://spotify-github-profile.vercel.app/api/shine/?theme=radical" />
