@@ -34,11 +34,9 @@ Welcome to my GitHub profile. I’m passionate about Web3, automation tools, and
 
 ## 📊 GitHub Stats
 
-
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan70119&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan70119\&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan70119&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Featured Projects
